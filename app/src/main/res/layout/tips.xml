@@ -1,0 +1,16 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    android:background="#8000">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="小提示：背景图片每日都会更换哦⊙ω⊙"
+        android:textColor="#fff" />
+
+</LinearLayout>
